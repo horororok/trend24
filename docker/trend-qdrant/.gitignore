@@ -1,0 +1,4 @@
+books.json
+books-test.json
+.env
+embeddings_topic.npy
